@@ -1,0 +1,9 @@
+PyID3
+
+There is no README for PyID3....  yet.
+
+
+
+If you want to run the unit test you need to create 'sample-tag' directory
+filled with id3v2 tags from your collection.  See test/findtags.py and
+test/sorttags.py

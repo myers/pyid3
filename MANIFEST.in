@@ -1,0 +1,7 @@
+include MANIFEST.in
+include examples/*
+#include id3v2
+include test/findtags.py
+include test/sorttags.py
+
+exclude setup.cfg

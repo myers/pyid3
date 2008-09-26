@@ -1,0 +1,22 @@
+Metadata-Version: 1.0
+Name: PyID3
+Version: 0.5.5
+Summary: Reading and writing id3v2 and id3v1 tags (http://id3.org/)
+Home-page: http://icepick.info/projects/pyid3/
+Author: Myers Carpenter
+Author-email: icepick@icepick.info
+License: CNRI Python License
+Download-URL: http://icepick.info/projects/pyid3/
+Description: pyid3 is a pure python library for reading and writing id3 tags (version
+        1.0, 1.1, 2.3, 2.4, readonly support for 2.2).
+        
+        What makes this better than all the others?  Testing!  This library has been
+        tested against some 200+ MB of just tags.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Python License (CNRI Python License)
+Classifier: Programming Language :: Python
+Classifier: Topic :: Multimedia :: Sound/Audio
